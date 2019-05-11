@@ -14,10 +14,16 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    You are logged in!sdfsdf
                 </div>
             </div>
         </div>
     </div>
+
+    <div>
+        <p>Aqui va el otro menu</p>
+
+    </div>
+
 </div>
 @endsection
